@@ -1,0 +1,12 @@
+# Environment variables & secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Scratch logs
+*.log
